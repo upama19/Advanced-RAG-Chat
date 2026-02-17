@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+rag-chat/
+venv/
+.env/
+.env.*
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Data & generated files
+data/uploads/
+embeddings/faiss.index
+embeddings/chunks.pkl
+
+# Logs
+*.log
+
+
+.env
