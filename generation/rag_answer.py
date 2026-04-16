@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv
 from openai import OpenAI
 from chat.memory import ChatMemory
-from mcp.router import decide_tool
+from routing.router import decide_tool
 
 from retrieval.search import SemanticSearcher
 

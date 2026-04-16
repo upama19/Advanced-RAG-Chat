@@ -22,6 +22,7 @@ Thumbs.db
 .idea/
 
 # Data & generated files
+data
 data/uploads/
 embeddings/faiss.index
 embeddings/chunks.pkl
